@@ -1,0 +1,11 @@
+{
+  "name": "cube",
+  "icons": [
+    {
+      "src": "/favicon-84.png",
+      "sizes": "84x84",
+      "type": "image/png",
+      "density": 1
+    }
+  ]
+}
